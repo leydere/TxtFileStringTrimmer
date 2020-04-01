@@ -1,0 +1,14 @@
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\bin\Debug\TxtFileStringTrimmer.exe.config
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\bin\Debug\TxtFileStringTrimmer.exe
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\bin\Debug\TxtFileStringTrimmer.pdb
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer.csprojAssemblyReference.cache
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\MainWindow.g.cs
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\App.g.cs
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer_MarkupCompile.cache
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer_MarkupCompile.lref
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\MainWindow.baml
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer.g.resources
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer.Properties.Resources.resources
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer.csproj.GenerateResource.cache
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer.exe
+D:\Users\Mr. E\source\repos\TxtFileStringTrimmer\TxtFileStringTrimmer\obj\Debug\TxtFileStringTrimmer.pdb
